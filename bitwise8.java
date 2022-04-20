@@ -7,7 +7,7 @@ public class bitwise8
 	int or_result , and_result , xor_result,left_shift,right_shift,right_zero_shift;
 		if(args.length==0)
 		{
-			System.out.println("Please Provide arguments!");
+			System.out.println("Please Provide arguments ok??!");
 		}
 		else
 		{
